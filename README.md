@@ -1,7 +1,5 @@
 # MedSega - Healthcare Companion App
 
-![MedSega Logo](app_logo.png)
-
 **MedSega** is a comprehensive healthcare companion app developed as a part of our 5th-semester project. This Flutter mobile application revolutionizes healthcare by offering a wide range of features, including a chatbot, login functionality, real-time doctor consultations, video calling, appointment scheduling, and an admin panel for doctors. We've learned various skills and technologies, including graphic design using Figma, while building this project.
 
 ## Table of Contents
