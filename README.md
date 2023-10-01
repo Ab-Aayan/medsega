@@ -76,9 +76,23 @@ The MedSega App will now be running on your local development server. You can ac
 - Launch the MedSega App on your emulator or physical device.
 - Utilize the chatbot, login functionality, real-time doctor consultations, video calling, and appointment scheduling for your healthcare needs.
 
+## Screenshots
+
+Here are some screenshots of the LanceMeUp App:
+
+<img src="https://github.com/Ab-Aayan/medsega/assets/93578138/1b6c9593-3d76-448b-8efd-0b3cc0101284" width="200">
+<img src="https://github.com/Ab-Aayan/medsega/assets/93578138/07f16668-af1d-4bdc-a342-48995905d1c9" width="200">
+<img src="https://github.com/Ab-Aayan/medsega/assets/93578138/b8717486-0a89-4d48-9cde-950c32a2cb00" width="200">
+<img src="https://github.com/Ab-Aayan/medsega/assets/93578138/75aefe45-5b70-425a-a470-bf7d3cf62843" width="200">
+<img src="https://github.com/Ab-Aayan/medsega/assets/93578138/589b8dc2-ec86-48bd-98e3-b0d5e8977b43" width="200">
+<img src="https://github.com/Ab-Aayan/medsega/assets/93578138/2cdb3bc1-960c-4c8d-8260-786cdd6f14fc" width="200">
+<img src="https://github.com/Ab-Aayan/medsega/assets/93578138/104e99df-3608-40a9-ab28-134b19d0b9f2" width="200">
+<img src="https://github.com/Ab-Aayan/medsega/assets/93578138/92b8b010-40cc-4827-a680-3f9fdb515934" width="200">
+
+
 ## Contributing
 
-We welcome contributions from the community to enhance and expand the MedSega App. If you'd like to contribute, please follow our [Contributing Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community to enhance and expand the MedSega App.
 
 ## License
 
@@ -86,7 +100,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions, feedback, or collaboration opportunities, please reach out to our team at [team@example.com](mailto:team@example.com).
+For questions, feedback, or collaboration opportunities, please reach out to our team at [aayankhhan12@gmail.com](mailto:aayankhhan12@gmail.com).
 
 ---
 
